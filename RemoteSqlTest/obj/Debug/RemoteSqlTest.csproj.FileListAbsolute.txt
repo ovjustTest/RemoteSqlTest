@@ -1,0 +1,10 @@
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\bin\Debug\RemoteSqlTest.exe
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\bin\Debug\RemoteSqlTest.pdb
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\bin\Debug\RemoteObject.dll
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\bin\Debug\RemoteObject.pdb
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\obj\Debug\RemoteSqlTest.csprojResolveAssemblyReference.cache
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\obj\Debug\RemoteSqlTest.Form1.resources
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\obj\Debug\RemoteSqlTest.Properties.Resources.resources
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\obj\Debug\RemoteSqlTest.csproj.GenerateResource.Cache
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\obj\Debug\RemoteSqlTest.exe
+i:\my测试项目New\RemoteSqlTest\RemoteSqlTest\obj\Debug\RemoteSqlTest.pdb

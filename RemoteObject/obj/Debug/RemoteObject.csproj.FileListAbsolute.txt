@@ -1,0 +1,5 @@
+i:\my测试项目New\RemoteSqlTest\RemoteObject\bin\Debug\RemoteObject.dll
+i:\my测试项目New\RemoteSqlTest\RemoteObject\bin\Debug\RemoteObject.pdb
+i:\my测试项目New\RemoteSqlTest\RemoteObject\obj\Debug\RemoteObject.dll
+i:\my测试项目New\RemoteSqlTest\RemoteObject\obj\Debug\RemoteObject.pdb
+i:\my测试项目New\RemoteSqlTest\RemoteObject\obj\Debug\RemoteObject.csprojResolveAssemblyReference.cache
